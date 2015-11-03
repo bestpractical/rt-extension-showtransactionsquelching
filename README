@@ -9,7 +9,7 @@ DESCRIPTION
     extension adds that information.
 
 RT VERSION
-    Works with RT 4.2.
+    Works with RT 4.2 and greater versions.
 
 INSTALLATION
     perl Makefile.PL

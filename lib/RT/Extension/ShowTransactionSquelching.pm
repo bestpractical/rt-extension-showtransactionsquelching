@@ -17,7 +17,7 @@ extension adds that information.
 
 =head1 RT VERSION
 
-Works with RT 4.2.
+Works with RT 4.2 and greater versions.
 
 =head1 INSTALLATION
 
